@@ -316,3 +316,14 @@ WHERE
     )
 ORDER BY
     film.title;
+
+
+-- OTHER GRADING NOTES:
+--
+-- If you submitted something that generated syntax errors:
+-- - You got a -8 if I couldn't figure out what was wrong
+-- - You got a -2 if it was something I could easily fix
+--
+-- There's a handful of people that got -2 on problems for "almost" correct solutions.
+--
+-- I'm happy to go over grading with anyone who has questions.
